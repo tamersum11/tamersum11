@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Tamer
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=tamersum11&show_icons=true&hide_border=false&title_color=c8ffc9&icon_color=236026&bg_color=09131B&text_color=ffffff&border_color=236026" />
+<a href="https://github.com/tamersum11/tamersum11" target="_blank" rel="noreferrer"> <img align="right" src="https://github-readme-stats.vercel.app/api?username=tamersum11&show_icons=true&hide_border=false&title_color=c8ffc9&icon_color=236026&bg_color=09131B&text_color=ffffff&border_color=236026" /> </a>
 
 I'm Electrical and Electronics Engineer / Software Developer from Turkiye :tr:
 
