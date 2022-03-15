@@ -4,7 +4,7 @@
 
 I'm Electrical and Electronics Engineer / Software Developer from Turkiye :tr:
 
-- 🔭 I’m currently working on **CINAR** 
+- 🔭 I’m currently working on [**FOREKS**](https://www.foreks.com/)
 - 🌱 I’m currently learning **everything 🤣**
 - 📫 How to reach me: **m.tameryaz@gmail.com**
 - ⚡  **Temet Nosce**
