@@ -1,5 +1,8 @@
 # Hi there 👋 I'm Tamer
 
+<img src="Digital_rain_animation_medium_letters_clear.gif" alt="matrix_rain" width="230" height="280" align="right" style="margin-left: 15px; margin-bottom: 20px; border-radius: 8px; object-fit: cover;" />
+
+
 I'm an **Electrical and Electronics Engineer / Software Developer** from Türkiye 🇹🇷  
 I specialize in building high-performance desktop applications, real-time data systems, and scalable backend solutions.
 
