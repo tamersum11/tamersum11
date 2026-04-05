@@ -7,8 +7,7 @@ I'm an **Electrical and Electronics Engineer / Software Developer** from Türkiy
 I specialize in building high-performance desktop applications, real-time data systems, and scalable backend solutions.
 
 - 🔭 **Current Focus:** High-performance C++ systems, real-time data streaming, and Go (Golang).
-- 🌱 **Learning:** Expanding my expertise in **Go** and modern PaaS architectures.
-- 📧 **Reach me:** [tameryaz98@gmail.com](mailto:tameryaz98@gmail.com)
+- 🌱 **Learning:** Expanding my expertise in **Go**.
 - ⚡ **Philosophy:** *Temet Nosce* (Know Thyself)
 
 ---
